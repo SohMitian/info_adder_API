@@ -1,3 +1,4 @@
-# get_address_with_PLATEAU
+# 情報加算器の処理をAPI化したもの
 
-PLATEAUのCityGMLに所在（建物の住所）を追加するスクリプト
+PLATEAUのCityGMLに所在等の情報を付加できます。
+API化しているので、サーバにおいてAPI経由で機能を呼び出すことができます。
